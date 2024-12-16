@@ -1,0 +1,16 @@
+﻿/* Responsive handling */
+@media (max-width: 768px) {
+    #sidebar {
+        width: 0;
+    }
+
+    #content {
+        margin-left: 0;
+    }
+
+    @keyframes fadeIn {
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }

@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\controllers\\geminicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\controllers\\geminicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\listbeverage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\listbeverage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\listdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\listdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\listloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\listloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\khachhang\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\khachhang\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\khachhang\\listbeverage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\khachhang\\listbeverage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\detailloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\detailloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\createloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\createloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\donhangdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\donhangdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\giohang\\chitietdonhanglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\giohang\\chitietdonhanglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\khachhang\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\khachhang\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\deleteloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\deleteloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\views\\admin\\editloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\views\\admin\\editloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\wwwroot\\css\\kh1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\wwwroot\\css\\kh1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|d:\\2151050338_luuvanphuc_doannganh\\ppkbeverage\\ppkbeverage\\wwwroot\\css\\kh.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B82F7B0F-55E0-4D90-AEF3-F9A1CCC89BDB}|PPKBeverage\\PPKBeverage.csproj|solutionrelative:ppkbeverage\\wwwroot\\css\\kh.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\Details.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\KhachHang\\Details.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\Details.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\KhachHang\\Details.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAOQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T12:33:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\APIController.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Controllers\\APIController.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\APIController.cs",
+              "RelativeToolTip": "PPKBeverage\\Controllers\\APIController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:09:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListDonHang.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\ListDonHang.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\ListDonHang.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\ListDonHang.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\ListDonHang.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T01:53:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Models\\Test.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Models\\Test.cs",
+              "RelativeToolTip": "PPKBeverage\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:14:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListLoaiSanPham.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\ListLoaiSanPham.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\ListLoaiSanPham.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\ListLoaiSanPham.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\ListLoaiSanPham.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T11:20:08.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListBeverage.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\ListBeverage.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\ListBeverage.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\ListBeverage.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\ListBeverage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T01:40:44.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiController.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\GeminiController.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Controllers\\GeminiController.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\GeminiController.cs",
+              "RelativeToolTip": "PPKBeverage\\Controllers\\GeminiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:25:08.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_NewLayout.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Shared\\_NewLayout.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Shared\\_NewLayout.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Shared\\_NewLayout.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Shared\\_NewLayout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:29:23.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PPKBeverage\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAcwL0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:45:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "PPKBeverage\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAwwNYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:08:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailLoaiSanPham.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\DetailLoaiSanPham.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\DetailLoaiSanPham.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\DetailLoaiSanPham.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\DetailLoaiSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T11:12:31.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerifyOTP.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\VerifyOTP.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\KhachHang\\VerifyOTP.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\VerifyOTP.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\KhachHang\\VerifyOTP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T13:32:43.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListBeverage.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\ListBeverage.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\KhachHang\\ListBeverage.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\ListBeverage.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\KhachHang\\ListBeverage.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAADwv3sAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T04:43:45.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwEAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T15:10:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateLoaiSanPham.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\CreateLoaiSanPham.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\CreateLoaiSanPham.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\CreateLoaiSanPham.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\CreateLoaiSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T11:14:00.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonHangDetails.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\DonHangDetails.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\DonHangDetails.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\DonHangDetails.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\DonHangDetails.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T02:43:21.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietDonHangList.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\GioHang\\ChiTietDonHangList.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\GioHang\\ChiTietDonHangList.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\GioHang\\ChiTietDonHangList.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\GioHang\\ChiTietDonHangList.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T13:15:23.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteLoaiSanPham.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\DeleteLoaiSanPham.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\DeleteLoaiSanPham.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\DeleteLoaiSanPham.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\DeleteLoaiSanPham.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T11:16:19.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T09:25:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T11:23:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditLoaiSanPham.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\EditLoaiSanPham.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\Admin\\EditLoaiSanPham.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\Admin\\EditLoaiSanPham.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\Admin\\EditLoaiSanPham.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T11:14:53.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Program.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Program.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Program.cs",
+              "RelativeToolTip": "PPKBeverage\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:15:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Models\\DonHang.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Models\\DonHang.cs",
+              "RelativeToolTip": "PPKBeverage\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:58:12.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "PPKBeverage\\Models\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "PPKBeverage\\Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:08:38.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-19T17:40:37.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "kh1.css",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\wwwroot\\css\\kh1.css",
+              "RelativeDocumentMoniker": "PPKBeverage\\wwwroot\\css\\kh1.css",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\wwwroot\\css\\kh1.css",
+              "RelativeToolTip": "PPKBeverage\\wwwroot\\css\\kh1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T15:57:38.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "kh.css",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\wwwroot\\css\\kh.css",
+              "RelativeDocumentMoniker": "PPKBeverage\\wwwroot\\css\\kh.css",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\wwwroot\\css\\kh.css",
+              "RelativeToolTip": "PPKBeverage\\wwwroot\\css\\kh.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T01:06:21.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PPKBeverage\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PPKBeverage\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T15:29:22.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DangXuat.cshtml",
+              "DocumentMoniker": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\DangXuat.cshtml",
+              "RelativeDocumentMoniker": "PPKBeverage\\Views\\KhachHang\\DangXuat.cshtml",
+              "ToolTip": "D:\\2151050338_LuuVanPhuc_DoAnNganh\\PPKBeverage\\PPKBeverage\\Views\\KhachHang\\DangXuat.cshtml",
+              "RelativeToolTip": "PPKBeverage\\Views\\KhachHang\\DangXuat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T16:53:17.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

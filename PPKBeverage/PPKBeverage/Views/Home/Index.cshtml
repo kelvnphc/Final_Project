@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    ViewData["ShowFooter"] = true; // Disable footer for this page
+}
+<body>
+<!-- Auto slide -->
+<section class="slide">
+    <div class="slide_show">
+        <img src="./../images/slide1.jpg" alt="Quảng cáo 1">
+    </div>
+    <div class="slide_show">
+         <img src="./../images/yuzu.jpg" alt="Quảng cáo 2">
+    </div>
+    <div class="slide_show">
+        <img src="./../images/slide3.jpg" alt="Quảng cáo 3">
+    </div>
+    <div class="slide_show">
+        <img src="./../images/slide4.jpg" alt="Quảng cáo 4">
+    </div>
+    <div class="slide_show">
+        <img src="./../images/slide5.jpg" alt="Quảng cáo 5">
+    </div>
+    <div class="slide_show">
+        <img src="./../images/slide6.jpg" alt="Quảng cáo 6">
+    </div>
+</section>
+    <!-- Chat Icon -->
+    <div class="chat-icon" onclick="toggleChat()">
+        <img src="https://icons.veryicon.com/png/o/miscellaneous/two-color-icon-library/user-286.png" alt="Chat Icon">
+    </div>
+
+    <!-- Chat Container -->
+    <div class="chat-container" id="chatContainer" style="display: none;">
+        <div class="chat-header">
+            <span class="close-btn" onclick="toggleChat()">×</span>
+        </div>
+        <div class="chat-box" id="chatBox">
+            <!-- Chat messages will be dynamically added here -->
+        </div>
+        <div class="chat-input">
+            <input type="text" id="chatInput" placeholder="Nhập tin nhắn...">
+            <button onclick="sendMessage()">Gửi</button>
+        </div>
+    </div>
+
+
+<style>
+        /* General Reset */
+        * {
+            box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Prevent horizontal overflow */
+        body, html {
+            overflow-x: hidden;
+        }
+
+        /* slide show auto */
+        .slide {
+            z-index: 1000;
+            display: flex;
+            position: relative;
+            overflow: hidden; /* Prevent images from overflowing */
+            width: 100vw; /* Make sure the slide container fits the viewport width */
+            height: 100vh; /* Make sure the slide container fits the viewport height */
+        }
+
+        .slide_show img {
+            width: 100%; /* Ensure images take up full width of container */
+            height: 100%; /* Ensure images take up full height of container */
+            object-fit: cover; /* Cover the container without distortion */
+        }
+
+        /* Slick arrows styling */
+        .slick-arrows {
+            position: absolute;
+            width: 40px;
+            height: 50px;
+            border-radius: 4px;
+            border: none;
+            outline: none;
+            background: rgba(0, 0, 0, 0.6);
+            color: #fff;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+
+            .slick-arrows:hover {
+                background: rgba(255, 255, 255, 0.6);
+                color: #000;
+            }
+
+        .slick-prev {
+            left: 10px; /* Adjust for better visibility */
+        }
+
+        .slick-next {
+            right: 10px; /* Adjust for better visibility */
+        }
+
+        /* Slick dots styling */
+        .slick-dots {
+            position: absolute;
+            list-style: none;
+            display: flex !important;
+            z-index: 2;
+            left: 50%;
+            transform: translateX(-50%);
+            bottom: 10px; /* Adjust as needed */
+        }
+
+            .slick-dots button {
+                background-color: rgb(207, 204, 204);
+                font-size: 0;
+                border-radius: 50%;
+                border: none;
+                outline: none;
+                width: 15px;
+                height: 15px;
+                margin: 5px;
+            }
+
+                .slick-dots .slick-active button,
+                .slick-dots button:hover {
+                    background: #0a5e98;
+                }
+
+        /* Ensure the container does not affect the slide */
+        .container {
+            margin: 0;
+            padding: 0; /* Remove padding to avoid affecting layout */
+            width: 100%;
+        }
+
+</style>
+<!-- End auto Slide -->
+</body>

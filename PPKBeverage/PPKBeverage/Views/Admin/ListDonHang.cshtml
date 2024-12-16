@@ -1,0 +1,102 @@
+﻿@model IEnumerable<PPKBeverage.Models.DonHang>
+
+@{
+    ViewData["Title"] = "Danh sách đơn hàng";
+    Layout = "_Layout";
+}
+
+<div class="container-fluid mt-4">
+    <h1 class="text-center">DANH SÁCH CÁC ĐƠN HÀNG MÀ KHÁCH HÀNG ĐÃ ĐẶT</h1>
+
+    <!-- Pagination -->
+    <ul class="pagination justify-content-center">
+        <!-- Nút Previous -->
+        @if (ViewBag.CurrentPage > 1)
+        {
+            <li class="page-item">
+                <a class="page-link" href="/Admin/ListDonHang?page=@(ViewBag.CurrentPage - 1)">Previous</a>
+            </li>
+        }
+
+        <!-- Hiển thị các số trang -->
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                <a class="page-link" href="/Admin/ListDonHang?page=@i">@i</a>
+            </li>
+        }
+
+        <!-- Nút Next -->
+        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+        {
+            <li class="page-item">
+                <a class="page-link" href="/Admin/ListDonHang?page=@(ViewBag.CurrentPage + 1)">Next</a>
+            </li>
+        }
+    </ul>
+
+    <!-- Table -->
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Mã đơn hàng</th>
+                    <th scope="col">Mã khách hàng</th>
+                    <th scope="col">Ngày tạo đơn</th>
+                    <th scope="col">Mã PayPal (nếu có)</th>
+                    <th scope="col">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.KhachHangId)</td>
+                        <td>@Html.DisplayFor(modelItem => item.NgayTao)</td>
+                        <td>@Html.DisplayFor(modelItem => item.PayPalKey)</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a href="@Url.Action("DonHangDetails", "Admin", new { id = item.Id })" class="btn btn-primary btn-sm">Chi tiết</a>
+                                <a href="@Url.Action("DeleteDonHang", "Admin", new { id = item.Id })" class="btn btn-danger btn-sm">Xóa</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<style>
+    .pagination .active .page-link {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: white;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    /* Tối ưu cho phần table và container */
+    .container-fluid {
+        padding: 0 15px;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    /* Tạo nhóm nút để canh giữa */
+    .btn-group {
+        display: flex;
+        justify-content: center;
+    }
+</style>

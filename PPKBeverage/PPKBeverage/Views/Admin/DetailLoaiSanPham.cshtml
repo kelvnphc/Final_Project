@@ -1,0 +1,64 @@
+﻿@model PPKBeverage.Models.LoaiSanPham
+
+@{
+    ViewData["Title"] = "DetailLoaiSanPham";
+    Layout = "_Layout";
+}
+
+<h1>DetailLoai</h1>
+
+<div>
+    <h4>LoaiSanPham</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Mã Loại
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LoaiId)
+        </dd>
+        <dt class="col-sm-2">
+            Tên Loại
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TenLoai)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <h4>Danh sách sản phẩm</h4>
+    @if (Model.SanPhams != null && Model.SanPhams.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.SanPhams.First().Anh)</th>
+                    <th>@Html.DisplayNameFor(m => m.SanPhams.First().Ten)</th>
+                    <th>@Html.DisplayNameFor(m => m.SanPhams.First().Size.DungTich)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var sanPham in Model.SanPhams)
+                {
+                    <tr>
+                        <td>
+                            <img src="@Url.Content(sanPham.Anh)" alt="@sanPham.Anh" style="width:100px; height:auto;" />
+                        </td>
+                        <td>@Html.DisplayFor(m => sanPham.Ten)</td>
+                        <td>@Html.DisplayFor(m => sanPham.Size.Ten)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không có sản phẩm nào thuộc loại này.</p>
+    }
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
